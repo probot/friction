@@ -1,0 +1,13 @@
+daysUntilStale: 60
+
+daysUntilClose: 7
+
+exemptLabels:
+  - "➡️ Tracking"
+
+staleLabel: wontfix
+
+markComment: >
+  Is this still causing friction? If so, please comment with any updates or addition details.
+  
+closeComment: false
