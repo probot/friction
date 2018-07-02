@@ -12,4 +12,4 @@ This is a discussion repository concerning all of Probot; all of the activity he
 
 Want to chat with Probot users and contributors before posting here? [Join us in Slack](https://probot-slackin.herokuapp.com/)!
 
-Like everywhere else in the Probot ecosystem, please conform to the [Code of Conduct](CODE_OF_CONDUCT.md).
+Like everywhere else in the Probot ecosystem, please conform to the [Code of Conduct](https://github.com/probot/probot/blob/master/CODE_OF_CONDUCT.md).
