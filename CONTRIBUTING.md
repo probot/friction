@@ -24,4 +24,4 @@ If you're concerned about our bots or feel that they are insensitive in some way
 
 ## Code of Conduct
 
-Like everywhere else in the Probot ecosystem, please conform to the [Code of Conduct](CODE_OF_CONDUCT.md).
+Like everywhere else in the Probot ecosystem, please conform to the [Code of Conduct](https://github.com/probot/probot/blob/master/CODE_OF_CONDUCT.md).
